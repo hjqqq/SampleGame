@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="32" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="dg_dungeon32" tilewidth="32" tileheight="32">
+  <image source="dg_dungeon32.png" width="288" height="320"/>
+ </tileset>
+ <layer name="Background" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJy9luEKQiEMhY0oegihCHqVfl0QLjd6/zcpQWmMebcdtR8HC+b91G1HYwghFq3kN6rkiD2U8ThQyRhXuUsZ81qeZexRJN+zxC3G+Fn8jcXX3FyceUT5PN5bD635vXz0vK3z3yCf16g0v+om5Ooafn0q8VMYs/9Wnvh/id/yEOpPtD4t59eKk+IR3/Hy1x1+j1p+4tm/VzUPmc39xMvv8RwpHwh/hud4+ci3kDnroG9Z3g/o/jXP8/TsjPNHe2Y2f+89g/bfwziHs7LOLIby6VrRXGr9qd0/6PtPy6GUr5H+j/Dp/qX80F4+GfLbw9d8lou/UVr1eP/qFeQ70XL/SbVp3R9dr3QnevjaurQaspw/wtfi/sXnd5iXj0rqC4/qmqx+N0MfZYMrjA==
+  </data>
+ </layer>
+</map>
